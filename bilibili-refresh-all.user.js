@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         B站首页 换一换 刷新全部可见视频（带历史）
+// @name         B站换一换整页刷新
 // @namespace    bilibili-refresh-all
-// @version      2.0.0
+// @version      2.0.1
 // @description  接管首页“换一换”：一次刷新屏幕上所有可见视频卡片，并支持 ← → 回退/前进到之前换过的内容
 // @match        https://www.bilibili.com/
 // @match        https://www.bilibili.com/?*
